@@ -1,0 +1,1 @@
+// Technical indicators: RSI, MACD, EMA, ADX

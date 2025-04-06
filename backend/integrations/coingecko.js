@@ -1,0 +1,1 @@
+// CoinGecko API integration module

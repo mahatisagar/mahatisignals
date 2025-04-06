@@ -1,0 +1,1 @@
+// React frontend entry point (to be used with Vite or CRA)
